@@ -1,8 +1,7 @@
 <h1> My Motivational Cube </h1>
 <h4>Love reading inspirational quotes and created a cube linked to an api on all sides that gives motivaltional quotes</h4>
-<br>
-<h4>Link to project: hhttps://www.debellotteconsulting.com/about-3/<h4>
-<img id ='cube' src=https://static.wixstatic.com/media/9c9835_14a432297aa743bc8db183acfd577a20~mv2.png/v1/fill/w_984,h_716,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Motivational%20Cube%20App.png alt='cube'>
+<h4>Link to project: https://www.debellotteconsulting.com/about-3/<h4>
+<img src="https://static.wixstatic.com/media/9c9835_14a432297aa743bc8db183acfd577a20~mv2.png/v1/fill/w_984,h_716,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Motivational%20Cube%20App.png" alt='cube'>
  <br>
 <h2>How It's Made:</h2>
 <h4>Tech used: HTML, CSS, JavaScript, Framework of choice</h4>
